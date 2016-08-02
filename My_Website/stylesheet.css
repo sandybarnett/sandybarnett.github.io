@@ -50,8 +50,9 @@ li {
 }
 
 #left{
-	width: 45%;
-	float: left;
+	width: 260px;
+	margin-left: 80px;
+	
 }
 
 p {
