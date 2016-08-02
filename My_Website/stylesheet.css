@@ -52,7 +52,7 @@ li {
 #left{
 	width: 260px;
 	margin-left: 80px;
-	
+	float:left;
 }
 
 p {
@@ -61,7 +61,8 @@ p {
 }
 
 #right{
-	width: 45%;
+	width: 60%;
+	margin-right: 80px;
 	float: right;
 }
 
