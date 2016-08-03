@@ -94,6 +94,13 @@ table#t01 {
     background-color: #f1f1c1;
 }
 
+table#t02 {
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+    width: 100%;
+    margin-left: 20px;
+    background-color: #f1f1c1;
+}
 td {
 	height: 75px;
 	width: 75px;
