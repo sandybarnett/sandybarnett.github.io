@@ -1,5 +1,6 @@
 body {
 	background-color: #ffff00
+
 }
 
 h2 {
@@ -139,4 +140,14 @@ th {
 	font-variant: small-caps;
 	color: #ffffff;
 }
-
+#app box{
+	
+}
+#appl {
+	float:left;
+	width: 50%;
+}
+#appr {
+	float:right;
+	width: 50%;
+}
