@@ -102,11 +102,21 @@ table1 {
 }
 
 #magic img {
-	height: 85px;
+	height: 75px;
 	width: 75px;
 }
 
+
+
 #t02 {
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+    width: 100%;
+    margin-left: 10%;
+    background-color: #f1f1c1;
+}
+
+#t03 {
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
     width: 100%;
