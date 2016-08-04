@@ -52,10 +52,17 @@ li {
 
 #left{
 	width: 260px;
+	height: 300px;
 	margin-left: 80px;
-	float:left;
+	float: left;
 }
 
+#left img{
+	width: 350px;
+	height: 250px;
+	margin: auto;
+	display: block;
+}
 p {
 	font-family: Tahoma;
 	font-size: 1em;
@@ -86,29 +93,35 @@ table1 {
 	border-bottom-left-radius: 15px;
 }
 
-table#t01 {
+#t01 {
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
     width: 100%;
-    margin-left: 20px;
+    margin-left: 10%;
     background-color: #f1f1c1;
 }
 
-table#t02 {
+#magic img {
+	height: 85px;
+	width: 75px;
+}
+
+#t02 {
 	border-top-left-radius: 15px;
 	border-top-right-radius: 15px;
     width: 100%;
-    margin-left: 20px;
+    margin-left: 10%;
     background-color: #f1f1c1;
 }
+
 td {
 	height: 75px;
 	width: 75px;
 }
 
 td img {
-	height: 75px;
-	width: 75px;
+	height: 85px;
+	width: 85px;
 	box-shadow: none;
 }
 
@@ -117,6 +130,11 @@ th {
 	font-size: 1em;
 	font-weight: normal;
 	color: #3c4543
+}
+
+#python { 
+	margin: 10%;
+	border-top-left-radius: 15px;
 }
 
 #bottom_left{
